@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "imageURL": "assets/verticalImg.png",
+        "name": "paintingOne",
+        "vertical": true
+    },
+    {
+        "id": 2,
+        "imageURL": "assets/horImg1.jpg",
+        "name": "paintingTwo",
+        "wFull": true
+    },
+    {
+        "id": 3,
+        "imageURL": "assets/horImg2.jpg",
+        "name": "paintingThree"
+    }
+]
